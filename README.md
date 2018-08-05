@@ -1,6 +1,8 @@
 基本からしっかり学ぶSymfony2入門　サポートサイト
 ================================================
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/symfony2-book.svg)](https://www.guardrails.io)
+
 **第3章 p.56のプロジェクト準備のコマンド例に誤植がありました。 [正誤情報](#正誤情報) をご参照ください。**
 
 本書の内容についてのご質問や誤植のご報告は、[issue](https://github.com/hidenorigoto/symfony2-book/issues)にてお願いします。
